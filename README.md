@@ -8,7 +8,7 @@ This repo is a portfolio for my CODEPEN PENS collections. Each collection has a 
 
 ## Pens
 
-> 💡 Click on image to visit the project on Behance!
+> 💡 Click on the image to visit the project on Behance!
 
 <br>
 
