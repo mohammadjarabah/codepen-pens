@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img src='./images/header.svg' width='200px'>
+    <img src='./images/header.svg' width='310px'>
 </h1>
 
 This repo is a portfolio for my CODEPEN PENS collections. Each collection has a thumbnail image, by clicking on the image, you will go to the collection project on [Behance](https://www.behance.net/mohammadjarabah), and you can see the 🗃 source code, 👁 live demo, and ✨ much more!
